@@ -1,8 +1,8 @@
 import javax.swing.*;
 
 class settings extends JFrame {
-    private JFrame frame;
     // Variables declaration - do not modify
+    private JFrame frame;
     private javax.swing.JButton jButton1;
     private javax.swing.JButton jButton2;
     private javax.swing.JLabel jLabel1;
