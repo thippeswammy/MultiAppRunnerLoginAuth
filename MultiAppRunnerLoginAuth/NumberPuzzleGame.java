@@ -1,6 +1,3 @@
-package com.thippeswamy.app.MultiAppRunnerLoginAuth;
-// Number 15 puzzle development...
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
