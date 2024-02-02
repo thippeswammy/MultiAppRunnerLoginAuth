@@ -1,5 +1,6 @@
-import javax.swing.*;
+package com.thippeswamy.app.MultiAppRunnerLoginAuth;
 
+import javax.swing.*;
 import java.awt.*;
 
 public class BasicMathCalculator extends javax.swing.JFrame {
@@ -11,16 +12,10 @@ public class BasicMathCalculator extends javax.swing.JFrame {
     int num = 0, dot = 1, number = 1;
     private javax.swing.JTextField jTextField1;
 
-    /**
-     * Creates new form MyCalculator
-     */
     public BasicMathCalculator() {
         initComponents();
     }
 
-    /**
-     * @param args the command com.thippeswamy.app.swing.Line.line arguments
-     */
     public static void main(String[] args) {
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
