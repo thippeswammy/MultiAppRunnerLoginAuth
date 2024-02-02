@@ -1,3 +1,5 @@
+package com.thippeswamy.app.MultiAppRunnerLoginAuth;
+
 import javax.swing.*;
 import java.awt.*;
 
